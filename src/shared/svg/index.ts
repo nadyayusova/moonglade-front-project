@@ -1,0 +1,1 @@
+export { MoongladeTextIcon } from './Moonglade'
